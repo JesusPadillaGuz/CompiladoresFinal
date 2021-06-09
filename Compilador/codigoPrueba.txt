@@ -1,0 +1,19 @@
+//Nombre del programa
+program mayorEdad;
+//Declaramos variable
+int e;
+
+write "Introduce tu edad:";
+read e;
+
+if (edad >= 18)
+{
+write "Ya eres mayor de edad";
+}
+else
+{
+write "Aun no eres mayor de edad";
+}
+/*Comentario
+de prueba en
+bloque*/

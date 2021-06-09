@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\bin\Debug\netstandard2.0\AnalizadLexico.deps.json
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\bin\Debug\netstandard2.0\AnalizadLexico.dll
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\bin\Debug\netstandard2.0\AnalizadLexico.pdb
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\obj\Debug\netstandard2.0\AnalizadLexico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\obj\Debug\netstandard2.0\AnalizadLexico.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\obj\Debug\netstandard2.0\AnalizadLexico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\obj\Debug\netstandard2.0\AnalizadLexico.dll
+C:\Users\Usuario\Desktop\Octavo Semestre\compiladores\ide\analizador lexicografico\Compilador\AnalizadLexico\obj\Debug\netstandard2.0\AnalizadLexico.pdb

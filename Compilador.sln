@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compilador", "Compilador\Compilador.csproj", "{0D86F9FF-253E-4091-BE49-704E5C8B044C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{02A37546-FB76-4623-A009-7C92EEB04C83} = {02A37546-FB76-4623-A009-7C92EEB04C83}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalizadLexico", "AnalizadLexico\AnalizadLexico.csproj", "{02A37546-FB76-4623-A009-7C92EEB04C83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D86F9FF-253E-4091-BE49-704E5C8B044C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D86F9FF-253E-4091-BE49-704E5C8B044C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D86F9FF-253E-4091-BE49-704E5C8B044C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D86F9FF-253E-4091-BE49-704E5C8B044C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02A37546-FB76-4623-A009-7C92EEB04C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02A37546-FB76-4623-A009-7C92EEB04C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02A37546-FB76-4623-A009-7C92EEB04C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02A37546-FB76-4623-A009-7C92EEB04C83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A5E1D1-12CE-4CA2-A138-B0D4EAA18B9F}
+	EndGlobalSection
+EndGlobal
